@@ -1,5 +1,5 @@
 # Masked
- Face Mask Detector using Keras, Tensorflow, MobileNet and OpenCV
+ ##Face Mask Detector using Keras, Tensorflow, MobileNet and OpenCV
  .
  .
  Training.py is the main script that uses keras,Tensorflow, MobileNet to train the images stored in the dataset folder.
