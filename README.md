@@ -4,6 +4,8 @@
  .
  
  .
+ 
+ 
  Training.py is the main script that uses keras,Tensorflow, MobileNet to train the images stored in the dataset folder.
  
  
