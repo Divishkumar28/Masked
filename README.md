@@ -2,7 +2,7 @@
 ## Face Mask Detector using Keras, Tensorflow, MobileNet and OpenCV
 
  
- Training.py is the main script that uses keras,Tensorflow, MobileNet to train the images stored in the dataset folder.
+ - Training.py is the main script that uses keras,Tensorflow, MobileNet to train the images stored in the dataset folder.
  
  
  - Dataset folder contains over 1100 images to train.
